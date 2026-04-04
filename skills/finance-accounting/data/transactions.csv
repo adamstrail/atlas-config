@@ -1,0 +1,4 @@
+date,type,account,amount,description,category,timestamp
+2026-03-29,expense,5201,28.0,Shoplazza 建站平台费用,管理费用,2026-04-04T19:32:13.767121
+2026-03-23,expense,5201,19.99,Hostinger .COM 域名注册费,管理费用,2026-04-04T19:33:32.913368
+2026-03-27,expense,5201,28.32,Hostinger Starter Business Email Trial,管理费用,2026-04-04T19:33:44.745611
