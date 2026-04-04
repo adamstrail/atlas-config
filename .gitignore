@@ -1,2 +1,3 @@
 *.env
 skills/finance-accounting/.venv/
+openclaw.json
