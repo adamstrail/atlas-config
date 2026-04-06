@@ -6,7 +6,7 @@
 
 > `memory/` 下的文件索引。新建文件时在此添加条目。需要详情时再读取对应文件。
 
-- YYYY-MM-DD.md: 每日日志
+- 2026-04-04.md: 技能安装、客户数据、Resend配置、Panbambu业务规划
 - learnings/：自我改进日志
   - LEARNINGS.md: 教训和发现（纠正、知识盲区、最佳实践）
   - ERRORS.md: 操作失败和异常记录
